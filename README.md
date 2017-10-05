@@ -36,3 +36,4 @@ $ bazel run :nav_a3c_train --define headless=false
 
 ## Result 
 <img src="asset/score.png">
+<img src="asset/image23528_94.0.gif" width="168">
