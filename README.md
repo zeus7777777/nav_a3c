@@ -11,7 +11,7 @@ Most of the codes are borrowed from [Simple Reinforcement Learning with Tensorfl
 
 ## How to build
 
-1. Clone the repo https://github.com/superMDguy/lab, an UNOFFICIAL version of **Deepmind Lab** which support Python 3.
+1. Clone the repo https://github.com/superMDguy/lab, an UNOFFICIAL version of **Deepmind Lab** which supports Python 3.
 2. Follow the instructions (https://github.com/superMDguy/lab/blob/master/docs/build.md#step-by-step-instructions-for-debian-or-ubuntu-using-python-3-experimental) on the Github. (Recommended using bazel 0.5.2, newer version may fail to build)
 3. Clone this repo under `lab/python3/`.
 4. Modify `BUILD` under `lab/` folder. Add bazel instructions at the end of file
